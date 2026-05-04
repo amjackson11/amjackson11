@@ -1,8 +1,6 @@
-# Andrew
+# Public work
 
-Systems engineer working across private client systems, backend services, cloud infrastructure, and data tooling.
-
-Most of my production work is private: long-running client applications, internal automation, cloud maintenance, data workflows, and operational support. The public repositories here are selected examples of my engineering style, tooling habits, and documentation standards.
+Most of my production work is private: long-running client applications, internal automation, cloud maintenance, data workflows, and operational support. The public repositories here are small, selected examples of the kind of tooling and documentation I use in that work.
 
 ## Public examples
 
